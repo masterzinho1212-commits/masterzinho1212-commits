@@ -1,4 +1,24 @@
+[README_Perfil_GitHub.md](https://github.com/user-attachments/files/32577778/README_Perfil_GitHub.md)
+<div align="center">
+
 # Olá! Eu sou Vinicius Oliveira de Souza 👋
+
+**Técnico em Informática | C# e .NET | Back-end | Front-end**
+
+<a href="mailto:viniods71@gmail.com">
+  <img src="https://img.shields.io/badge/E--mail-Contato-blue?style=for-the-badge" alt="Enviar e-mail para Vinicius">
+</a>
+<a href="https://github.com/masterzinho1212-commits">
+  <img src="https://img.shields.io/badge/GitHub-Perfil-black?style=for-the-badge&logo=github" alt="Perfil no GitHub">
+</a>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,git,github" alt="C Sharp, .NET, HTML, CSS, JavaScript, Git e GitHub">
+
+</div>
+
+## Sobre mim
 
 Sou Técnico em Informática, interessado em desenvolvimento de software e em iniciar minha carreira na área de Tecnologia da Informação. Tenho conhecimentos em C#, .NET, desenvolvimento back-end e front-end, banco de dados e sistemas desktop.
 

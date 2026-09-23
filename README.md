@@ -1,4 +1,3 @@
-[README_Perfil_GitHub.md](https://github.com/user-attachments/files/32577778/README_Perfil_GitHub.md)
 <div align="center">
 
 # Olá! Eu sou Vinicius Oliveira de Souza 👋
